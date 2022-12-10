@@ -1,0 +1,78 @@
+Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 3.9 Alarm Id425
+Alarm Condition Met for Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 3.9 Alarm Id425
+Alarm ID =425 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =425 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Trout and hooker stage less than 5ft
+ for stations Trout sensor name 167 value 3.9
+Sending email with body Message: Trout and hooker stage less than 5ft
+ for stations Trout sensor name 167 value 3.9
+Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 4.06 Alarm Id426
+Alarm Condition Met for Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 4.06 Alarm Id426
+Alarm ID =426 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =426 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Trout and hooker stage less than 5ft
+ for stations Hooker sensor name 167 value 4.06
+Sending email with body Message: Trout and hooker stage less than 5ft
+ for stations Hooker sensor name 167 value 4.06
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 12/4/2022 9:30:36 AM
+Before Sending email
+12/4/2022 9:30:40 AM - Email sent with body 
+
+Message: Trout and hooker stage less than 5ft
+Station Name: Trout Creek
+Sensor Name: Stage
+Current Value:3.9
+Time Stamp: 2022-12-04 07:15
+
+Message: Trout and hooker stage less than 5ft
+Station Name: Hooker
+Sensor Name: Stage
+Current Value:4.06
+Time Stamp: 2022-12-04 07:15
+Setting alarm flag to true  for stations Hooker sensor name 167
+Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 3.9 Alarm Id427
+Alarm Condition Not Met for Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 3.9 Alarm Id427
+Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 4.06 Alarm Id428
+Alarm Condition Met for Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 4.06 Alarm Id428
+Alarm ID =428 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =428 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Should not trigger. Trout <1 ft and Hooker less than 5ft
+ for stations Hooker sensor name 167 value 4.06
+Sending email with body Message: Should not trigger. Trout <1 ft and Hooker less than 5ft
+ for stations Hooker sensor name 167 value 4.06
+Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 3.9 Alarm Id429
+Alarm Condition Met for Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 3.9 Alarm Id429
+Alarm ID =429 EMail Added to Alarm: matt@alpinehydromet.com
+Alarm ID =429 Mobile Added to Alarm: 5307186987
+Alarm ID =429 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =429 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Trout and hooker stage less than 5ft
+ for stations Trout sensor name 167 value 3.9
+Sending email with body Message: Trout and hooker stage less than 5ft
+ for stations Trout sensor name 167 value 3.9
+Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 4.06 Alarm Id430
+Alarm Condition Met for Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 4 HOUR 7 MIN 15 Val 4.06 Alarm Id430
+Alarm ID =430 EMail Added to Alarm: matt@alpinehydromet.com
+Alarm ID =430 Mobile Added to Alarm: 5307186987
+Alarm ID =430 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =430 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Trout and hooker stage less than 5ft
+ for stations Hooker sensor name 167 value 4.06
+Sending email with body Message: Trout and hooker stage less than 5ft
+ for stations Hooker sensor name 167 value 4.06
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 12/4/2022 9:35:22 AM
+Before Sending email
+12/4/2022 9:35:24 AM - Email sent with body 
+
+Message: Trout and hooker stage less than 5ft
+Station Name: Trout Creek
+Sensor Name: Stage
+Current Value:3.9
+Time Stamp: 2022-12-04 07:15
+
+Message: Trout and hooker stage less than 5ft
+Station Name: Hooker
+Sensor Name: Stage
+Current Value:4.06
+Time Stamp: 2022-12-04 07:15
+Setting alarm flag to true  for stations Hooker sensor name 167

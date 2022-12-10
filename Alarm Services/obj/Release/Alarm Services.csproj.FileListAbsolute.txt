@@ -1,0 +1,52 @@
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe.config
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\bin\Release\Alarm Services.pdb
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\bin\Release\Npgsql.dll
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Release\Alarm_Services.ProjectInstaller.resources
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Release\Alarm_Services.Service1.resources
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Release\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Release\Alarm Services.exe
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Release\Alarm Services.pdb
+C:\Users\gisfy pvt ltd\Desktop\prj new source code\prj new source code\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe.config
+C:\Users\gisfy pvt ltd\Desktop\prj new source code\prj new source code\Alarm Services\Alarm Services\obj\Release\Alarm Services.exe
+C:\Users\gisfy pvt ltd\Desktop\prj new source code\prj new source code\Alarm Services\Alarm Services\obj\Release\Alarm Services.pdb
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe.config
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Release\Alarm Services.pdb
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Release\Npgsql.dll
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Release\Alarm_Services.ProjectInstaller.resources
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Release\Alarm_Services.Service1.resources
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Release\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Release\Alarm Services.exe
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Release\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe.config
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Release\Alarm Services.exe
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Release\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Release\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Release\Npgsql.dll
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Release\Alarm Services.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Release\Alarm_Services.ProjectInstaller.resources
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Release\Alarm_Services.Service1.resources
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Release\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe.config
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Release\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Release\Npgsql.dll
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Release\Alarm Services.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Release\Alarm_Services.ProjectInstaller.resources
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Release\Alarm_Services.Service1.resources
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Release\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Release\Alarm Services.exe
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Release\Alarm Services.pdb
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe.config
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Release\Alarm Services.exe
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Release\Alarm Services.pdb
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Release\Npgsql.dll
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Release\Alarm_Services.ProjectInstaller.resources
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Release\Alarm_Services.Service1.resources
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Release\Alarm Services.csproj.GenerateResource.cache
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Release\Alarm Services.csproj.CoreCompileInputs.cache
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Release\Alarm Services.csproj.CopyComplete
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Release\Alarm Services.exe
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Release\Alarm Services.pdb

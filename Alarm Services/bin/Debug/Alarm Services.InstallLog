@@ -1,0 +1,2597 @@
+﻿Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Creating EventLog source AlarmService in log Application...
+Rolling back assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Restoring event log to previous state for source AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Creating EventLog source AlarmService in log Application...
+Rolling back assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Restoring event log to previous state for source AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Creating EventLog source AlarmService in log Application...
+Rolling back assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Restoring event log to previous state for source AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Creating EventLog source AlarmService in log Application...
+Rolling back assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Restoring event log to previous state for source AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Creating EventLog source AlarmService in log Application...
+Rolling back assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Restoring event log to previous state for source AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Creating EventLog source AlarmService in log Application...
+Rolling back assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Restoring event log to previous state for source AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Creating EventLog source AlarmService in log Application...
+Rolling back assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Restoring event log to previous state for source AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Creating EventLog source AlarmService in log Application...
+Rolling back assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Restoring event log to previous state for source AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Service AlarmService is being removed from the system...
+Service AlarmService was successfully removed from the system.
+Attempt to stop service AlarmService.
+Uninstalling assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Removing EventLog source AlarmService.
+Warning: The source AlarmService is not registered on the local machine.
+Service AlarmService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Installing assembly 'C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Installing assembly 'C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Installing assembly 'C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Installing service AlarmService...
+Service AlarmService has been successfully installed.
+Creating EventLog source AlarmService in log Application...
+Committing assembly 'C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+Installing assembly 'C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service wxAlarmService...
+Service wxAlarmService has been successfully installed.
+Creating EventLog source wxAlarmService in log Application...
+Committing assembly 'C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing assembly 'G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Installing service wxAlarmService...
+Service wxAlarmService has been successfully installed.
+Creating EventLog source wxAlarmService in log Application...
+Committing assembly 'G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Uninstalling assembly 'G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logfile = G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+Removing EventLog source wxAlarmService.
+Service wxAlarmService is being removed from the system...
+Service wxAlarmService was successfully removed from the system.
+Installing assembly 'E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 
+Installing service wxAlarmService...
+Service wxAlarmService has been successfully installed.
+Creating EventLog source wxAlarmService in log Application...
+Committing assembly 'E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.InstallLog
+   assemblypath = E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+   logtoconsole = 

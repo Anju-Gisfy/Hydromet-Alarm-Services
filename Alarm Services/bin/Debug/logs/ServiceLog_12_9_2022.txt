@@ -1,0 +1,218 @@
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationTrout
+Setting Flag to 11 for these station =>'tblStation_Trout_22'
+Entering setAlarmFlag211 for stationHooker
+Setting Flag to 11 for these station =>'tblStation_Hooker_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationTrout
+Setting Flag to 11 for these station =>'tblStation_Trout_22'
+Entering setAlarmFlag211 for stationHooker
+Setting Flag to 11 for these station =>'tblStation_Hooker_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id413
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id413
+Alarm ID =413 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =413 Mobile Added to Alarm: 15307186987
+Alarm ID =413 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =413 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: NewTest
+ for stations Beardsley sensor name 158 value 12.85
+Sending email with body Message: NewTest
+ for stations Beardsley sensor name 158 value 12.85
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 4.02 Alarm Id414
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 4.02 Alarm Id414
+Alarm ID =414 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =414 Mobile Added to Alarm: 15307186987
+Alarm ID =414 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =414 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: NewTest
+ for stations Beardsley sensor name 167 value 4.02
+Sending email with body Message: NewTest
+ for stations Beardsley sensor name 167 value 4.02
+Beardsley sensor name 159returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 6.78 Alarm Id415
+Alarm Condition Met for Beardsley sensor name 159returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 6.78 Alarm Id415
+Alarm ID =415 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =415 Mobile Added to Alarm: 15307186987
+Alarm ID =415 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =415 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: second testing with threshold and rate of change
+ for stations Beardsley sensor name 159 value 6.78
+Sending email with body Message: second testing with threshold and rate of change
+ for stations Beardsley sensor name 159 value 6.78
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 4.02 Alarm Id421
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 4.02 Alarm Id421
+Alarm ID =421 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =421 Mobile Added to Alarm: 15307186987
+Alarm ID =421 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =421 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Testing muliple alarms
+ for stations Beardsley sensor name 167 value 4.02
+Sending email with body Message: Testing muliple alarms
+ for stations Beardsley sensor name 167 value 4.02
+Beardsley sensor name 159returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 6.78 Alarm Id422
+Alarm Condition Met for Beardsley sensor name 159returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 6.78 Alarm Id422
+Alarm ID =422 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =422 Mobile Added to Alarm: 15307186987
+Alarm ID =422 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =422 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Testing muliple alarms
+ for stations Beardsley sensor name 159 value 6.78
+Sending email with body Message: Testing muliple alarms
+ for stations Beardsley sensor name 159 value 6.78
+Beardsley sensor name 159returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 6.78 Alarm Id423
+Alarm Condition Met for Beardsley sensor name 159returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 6.78 Alarm Id423
+Alarm ID =423 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =423 Mobile Added to Alarm: 15307186987
+Alarm ID =423 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =423 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Test Multi Alarm
+ for stations Beardsley sensor name 159 value 6.78
+Sending email with body Message: Test Multi Alarm
+ for stations Beardsley sensor name 159 value 6.78
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 4.02 Alarm Id424
+Alarm Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 4.02 Alarm Id424
+Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 2 MIN 15 Val 3.83 Alarm Id427
+Alarm Condition Not Met for Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 2 MIN 15 Val 3.83 Alarm Id427
+Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 2 MIN 15 Val 4.04 Alarm Id428
+Alarm Condition Met for Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 2 MIN 15 Val 4.04 Alarm Id428
+Alarm ID =428 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =428 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Should not trigger. Trout <1 ft and Hooker less than 5ft
+ for stations Hooker sensor name 167 value 4.04
+Sending email with body Message: Should not trigger. Trout <1 ft and Hooker less than 5ft
+ for stations Hooker sensor name 167 value 4.04
+Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 2 MIN 15 Val 3.83 Alarm Id429
+Alarm Condition Met for Trout sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 2 MIN 15 Val 3.83 Alarm Id429
+Alarm ID =429 EMail Added to Alarm: matt@alpinehydromet.com
+Alarm ID =429 Mobile Added to Alarm: 5307186987
+Alarm ID =429 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =429 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Trout and hooker stage less than 5ft
+ for stations Trout sensor name 167 value 3.83
+Sending email with body Message: Trout and hooker stage less than 5ft
+ for stations Trout sensor name 167 value 3.83
+Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 2 MIN 15 Val 4.04 Alarm Id430
+Alarm Condition Met for Hooker sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 2 MIN 15 Val 4.04 Alarm Id430
+Alarm ID =430 EMail Added to Alarm: matt@alpinehydromet.com
+Alarm ID =430 Mobile Added to Alarm: 5307186987
+Alarm ID =430 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =430 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Trout and hooker stage less than 5ft
+ for stations Hooker sensor name 167 value 4.04
+Sending email with body Message: Trout and hooker stage less than 5ft
+ for stations Hooker sensor name 167 value 4.04
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id417
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id417
+Deadband Condition Not Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id417 Deadband 1
+Alarm ID =417 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =417 Mobile Added to Alarm: 15307186987
+Alarm ID =417 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =417 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Test single alarm
+ for stations Beardsley sensor name 158 value 12.85
+Sending email with body Message: Test single alarm
+ for stations Beardsley sensor name 158 value 12.85
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 12/9/2022 10:45:18 PM
+Before Sending email
+12/9/2022 10:45:22 PM - Email sent with body Message: Test single alarm
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.85
+Time Stamp: 2022-12-07 01:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id420
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id420
+Deadband Condition Not Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id420 Deadband 1
+Alarm ID =420 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =420 Mobile Added to Alarm: 15307186987
+Alarm ID =420 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =420 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Testing single alarm
+ for stations Beardsley sensor name 158 value 12.85
+Sending email with body Message: Testing single alarm
+ for stations Beardsley sensor name 158 value 12.85
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 12/9/2022 10:45:22 PM
+Before Sending email
+12/9/2022 10:45:25 PM - Email sent with body Message: Testing single alarm
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.85
+Time Stamp: 2022-12-07 01:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id431
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 12.85 Alarm Id431
+Alarm ID =431 EMail Added to Alarm: matt@alpinehydromet.com
+Alarm ID =431 Mobile Added to Alarm: 5307186987
+Alarm ID =431 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =431 Mobile Added to Alarm: 15307186987
+Alarm ID =431 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =431 Mobile Added to Alarm: 15307186987
+Alarm ID =431 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =431 Mobile Added to Alarm: 5307186987
+Alarm ID =431 EMail Added to Alarm: admin@gmail.com
+Alarm ID =431 Mobile Added to Alarm: 1234567891
+Alarm ID =431 EMail Added to Alarm: matt@alpinehydromet.com
+Alarm ID =431 Mobile Added to Alarm: 5307186987
+Alarm ID =431 EMail Added to Alarm: demo@gmail.com
+Alarm ID =431 Mobile Added to Alarm: 12378676767
+Alarm ID =431 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =431 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Testing By Anju
+ for stations Beardsley sensor name 158 value 12.85
+Sending email with body Message: Testing By Anju
+ for stations Beardsley sensor name 158 value 12.85
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 4.02 Alarm Id432
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 12 DAY 7 HOUR 1 MIN 30 Val 4.02 Alarm Id432
+Alarm ID =432 EMail Added to Alarm: matt@alpinehydromet.com
+Alarm ID =432 Mobile Added to Alarm: 5307186987
+Alarm ID =432 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =432 Mobile Added to Alarm: 15307186987
+Alarm ID =432 EMail Added to Alarm: matt.heggli@innovativehydrology.com
+Alarm ID =432 Mobile Added to Alarm: 15307186987
+Alarm ID =432 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =432 Mobile Added to Alarm: 5307186987
+Alarm ID =432 EMail Added to Alarm: admin@gmail.com
+Alarm ID =432 Mobile Added to Alarm: 1234567891
+Alarm ID =432 EMail Added to Alarm: matt@alpinehydromet.com
+Alarm ID =432 Mobile Added to Alarm: 5307186987
+Alarm ID =432 EMail Added to Alarm: demo@gmail.com
+Alarm ID =432 Mobile Added to Alarm: 12378676767
+Alarm ID =432 EMail Added to Alarm: anju@gisfy.co.in
+Alarm ID =432 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Testing By Anju
+ for stations Beardsley sensor name 167 value 4.02
+Sending email with body Message: Testing By Anju
+ for stations Beardsley sensor name 167 value 4.02
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 12/9/2022 10:54:49 PM
+Before Sending email
+12/9/2022 10:54:52 PM - Email sent with body 
+
+Message: Testing By Anju
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.85
+Time Stamp: 2022-12-07 01:30
+
+Message: Testing By Anju
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.02
+Time Stamp: 2022-12-07 01:30
+Setting alarm flag to true  for stations Beardsley sensor name 167

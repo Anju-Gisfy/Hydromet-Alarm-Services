@@ -1,0 +1,874 @@
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+smtp.gmail.com;587;alarm.wxvisual@gmail.com;HydroAlarm2020# 10/28/2022 12:18:38 AM
+Before Sending email
+The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at10/28/2022 12:18:38 AM - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Alarm_Services.Service1.email(MailMessage mail, String body) in E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\Service1.cs:line 125710/28/2022 12:18:38 AM - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+smtp.gmail.com;587;alarm.wxvisual@gmail.com;HydroAlarm2020# 10/28/2022 12:18:38 AM
+Before Sending email
+The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at10/28/2022 12:18:39 AM - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+   at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at Alarm_Services.Service1.email(MailMessage mail, String body) in E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\Service1.cs:line 125710/28/2022 12:18:39 AM - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 158 value 12.89
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 167 value 4.05
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 158 value 12.89
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 167 value 4.05
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 12:29:40 AM
+Before Sending email
+10/28/2022 12:29:43 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.89
+Time Stamp: 2022-10-27 21:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 12:29:43 AM
+Before Sending email
+10/28/2022 12:29:45 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.05
+Time Stamp: 2022-10-27 21:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 158 value 12.89
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 4.05 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 167 value 4.05
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 21 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 158 value 12.89
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 167 value 4.04
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 158 value 12.89
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 167 value 4.04
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 158 value 12.89
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 167 value 4.04
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 158 value 12.89
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 167 value 4.04
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 158 value 12.89
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Ignoring alarm  for stations Beardsley sensor name 167 value 4.04
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 12:50:05 AM
+Before Sending email
+10/28/2022 12:50:07 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.89
+Time Stamp: 2022-10-27 22:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 12:50:07 AM
+Before Sending email
+10/28/2022 12:50:09 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-27 22:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 12:54:19 AM
+Before Sending email
+10/28/2022 12:54:21 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.89
+Time Stamp: 2022-10-27 22:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 12:59:10 AM
+Before Sending email
+10/28/2022 12:59:12 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-27 22:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:00:01 AM
+Before Sending email
+10/28/2022 1:00:03 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.89
+Time Stamp: 2022-10-27 22:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:00:03 AM
+Before Sending email
+10/28/2022 1:00:05 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-27 22:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 12.89 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.89
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:00:11 AM
+Before Sending email
+10/28/2022 1:00:13 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.89
+Time Stamp: 2022-10-27 22:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 22 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:00:13 AM
+Before Sending email
+10/28/2022 1:00:15 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-27 22:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 12.88 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 12.88 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:48:30 AM
+Before Sending email
+10/28/2022 1:48:32 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.88
+Time Stamp: 2022-10-27 23:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:48:32 AM
+Before Sending email
+10/28/2022 1:48:33 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-27 23:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 12.88 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 12.88 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:49:15 AM
+Before Sending email
+10/28/2022 1:49:16 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.88
+Time Stamp: 2022-10-27 23:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:49:29 AM
+Before Sending email
+10/28/2022 1:49:31 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-27 23:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 12.88 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 12.88 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:49:58 AM
+Before Sending email
+10/28/2022 1:50:00 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.88
+Time Stamp: 2022-10-27 23:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 27 HOUR 23 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: girija@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 1:50:00 AM
+Before Sending email
+10/28/2022 1:50:02 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-27 23:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 12.88 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 12.88 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+2ndR
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+2ndR
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 12.88 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 12.88 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 12.88 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 12.88 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.88
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 0 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 1 MIN 30 Val 12.87 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 1 MIN 30 Val 12.87 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.87
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 4:27:20 AM
+Before Sending email
+10/28/2022 4:27:22 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.87
+Time Stamp: 2022-10-28 01:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 1 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 1 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 4:27:22 AM
+Before Sending email
+10/28/2022 4:27:24 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 01:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 1 MIN 30 Val 12.87 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 1 MIN 30 Val 12.87 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.87
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.87
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 5:23:06 AM
+Before Sending email
+10/28/2022 5:23:09 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.87
+Time Stamp: 2022-10-28 01:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 4.05 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 4.05 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 5:23:09 AM
+Before Sending email
+10/28/2022 5:23:11 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.05
+Time Stamp: 2022-10-28 02:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 12.85 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 12.85 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.85
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.85
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 5:23:17 AM
+Before Sending email
+10/28/2022 5:23:19 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.85
+Time Stamp: 2022-10-28 02:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 4.05 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 4.05 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 5:23:19 AM
+Before Sending email
+10/28/2022 5:23:21 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.05
+Time Stamp: 2022-10-28 02:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 12.85 Alarm Id398
+Alarm Condition Met for Beardsley sensor name 158returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 12.85 Alarm Id398
+Alarm ID =398 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =398 Mobile Added to Alarm: 15307186987
+Alarm ID =398 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =398 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.85
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 158 value 12.85
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 5:23:27 AM
+Before Sending email
+10/28/2022 5:23:29 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Battery
+Current Value:12.85
+Time Stamp: 2022-10-28 02:30
+Setting alarm flag to true  for stations Beardsley sensor name 158
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 4.05 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 2 MIN 30 Val 4.05 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.05
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 5:23:29 AM
+Before Sending email
+10/28/2022 5:23:31 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.05
+Time Stamp: 2022-10-28 02:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Deadband Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395 Deadband -11
+Alarm ID =395 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 15307186987
+Alarm ID =395 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =395 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 7:44:31 AM
+Before Sending email
+10/28/2022 7:44:34 AM - Email sent with body Message: Alarm hit
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 7:44:34 AM
+Before Sending email
+10/28/2022 7:44:36 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Deadband Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395 Deadband -11
+Alarm ID =395 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 15307186987
+Alarm ID =395 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =395 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 7:45:05 AM
+Before Sending email
+10/28/2022 7:45:07 AM - Email sent with body Message: Alarm hit
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 7:45:07 AM
+Before Sending email
+10/28/2022 7:45:09 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Deadband Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395 Deadband -11
+Alarm ID =395 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 15307186987
+Alarm ID =395 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =395 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 7:45:15 AM
+Before Sending email
+10/28/2022 7:45:17 AM - Email sent with body Message: Alarm hit
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id399
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id399
+Alarm ID =399 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =399 Mobile Added to Alarm: 15307186987
+Alarm ID =399 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =399 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Multi alarm RND
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 7:45:17 AM
+Before Sending email
+10/28/2022 7:45:19 AM - Email sent with body Message: Multi alarm RND
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Deadband Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395 Deadband -11
+Alarm ID =395 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 15307186987
+Alarm ID =395 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =395 Mobile Added to Alarm: 5307186987
+Sending email with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 7:51:48 AM
+Before Sending email
+10/28/2022 7:51:50 AM - Email sent with body Message: Alarm hit
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Deadband Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395 Deadband -11
+Alarm ID =395 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 15307186987
+Alarm ID =395 EMail Added to Alarm: mattheggli@gmail.com
+Alarm ID =395 Mobile Added to Alarm: 5307186987
+Sending email for first time and not checking deathband with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 7:51:56 AM
+Before Sending email
+10/28/2022 7:51:58 AM - Email sent with body Message: Alarm hit
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Entering setAlarmFlag211 for stationBeardsley
+Setting Flag to 11 for these station =>'tblStation_Beardsley_22'
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Deadband Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395 Deadband -11
+Alarm ID =395 EMail Added to Alarm: manoj@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 5307186987
+Alarm ID =395 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 15307186987
+Sending email with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+2ndR
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 8:15:03 AM
+Before Sending email
+10/28/2022 8:15:06 AM - Email sent with body Message: Alarm hit
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Deadband Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395 Deadband -11
+Alarm ID =395 EMail Added to Alarm: manoj@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 5307186987
+Alarm ID =395 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 8:15:12 AM
+Before Sending email
+10/28/2022 8:15:14 AM - Email sent with body Message: Alarm hit
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167
+Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Alarm Condition Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395
+Deadband Condition Not Met for Beardsley sensor name 167returning back YEAR = 2022 MONTH 10 DAY 28 HOUR 5 MIN 30 Val 4.04 Alarm Id395 Deadband -11
+Alarm ID =395 EMail Added to Alarm: manoj@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 5307186987
+Alarm ID =395 EMail Added to Alarm: shikha@gisfy.co.in
+Alarm ID =395 Mobile Added to Alarm: 15307186987
+Sending email for first time and not checking deathband with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+Sending email with body Message: Alarm hit
+ for stations Beardsley sensor name 167 value 4.04
+smtp.gmail.com;587;testgisfy@gmail.com;exmnlbtjnnimkiny 10/28/2022 8:15:20 AM
+Before Sending email
+10/28/2022 8:15:22 AM - Email sent with body Message: Alarm hit
+Station Name: Beardsley
+Sensor Name: Stage
+Current Value:4.04
+Time Stamp: 2022-10-28 05:30
+Setting alarm flag to true  for stations Beardsley sensor name 167

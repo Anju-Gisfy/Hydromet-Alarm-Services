@@ -1,0 +1,134 @@
+D:\C#\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+D:\C#\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csprojResolveAssemblyReference.cache
+D:\C#\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+D:\C#\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+D:\C#\Alarm Services\Alarm Services\bin\Debug\Npgsql.dll
+D:\C#\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+D:\C#\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\bin\Debug\Npgsql.dll
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\Users\satish singh\Desktop\Service-11-Aug\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\gisfy pvt ltd\Desktop\prj new source code\prj new source code\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\gisfy pvt ltd\Desktop\prj new source code\prj new source code\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\gisfy pvt ltd\Desktop\prj new source code\prj new source code\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\Mark\Desktop\Azghar Files\Alarm Services 27 june\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csprojResolveAssemblyReference.cache
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.cache
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.CopyComplete
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\SourceCodeBackup_9Jul2019\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.0\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\Users\admin\Downloads\2.0-20210208T122306Z-001\2.1\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\admin\Downloads\2.1.1-20210304T094945Z-001\2.1.1\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\admin\Desktop\2.2-20210324T115652Z-001\2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\admin\Desktop\Hydromet Service\Alarm Services-20210613T210426Z-001\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\admin\Desktop\Hydromet Service\Alarm Services-20210613T210426Z-001\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\admin\Desktop\Hydromet Service\Alarm Services-20210613T210426Z-001\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\admin\Desktop\Hydromet Service\Alarm Services-20210613T210426Z-001\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\Users\admin\Desktop\Hydromet Service\Alarm Services-20210613T210426Z-001\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\admin\Desktop\Hydromet Service\Alarm Services-20210613T210426Z-001\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\Users\admin\Desktop\Hydromet Service\Alarm Services-20210613T210426Z-001\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\Users\admin\Desktop\Hydromet Service\Alarm Services-20210613T210426Z-001\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\Users\admin\Desktop\Hydromet Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.Cache
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.AssemblyReference.cache
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.cache
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.CoreCompileInputs.cache
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.CopyComplete
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+C:\WXservices\Alarm\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.cache
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.CoreCompileInputs.cache
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.CopyComplete
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+G:\Hydromet\Alarm Service\2.2.2\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe.config
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.exe
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Alarm Services.pdb
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Npgsql.ConfigureConnection.dll
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Npgsql.dll
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\Npgsql.xml
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.AssemblyReference.cache
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.ProjectInstaller.resources
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Debug\Alarm_Services.Service1.resources
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.GenerateResource.cache
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.CoreCompileInputs.cache
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Debug\Alarm Services.csproj.CopyComplete
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Debug\Alarm Services.exe
+E:\2.2.3-20221006T064217Z-001\2.2.3\Alarm Services\Alarm Services\obj\Debug\Alarm Services.pdb
